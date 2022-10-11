@@ -1,2 +1,2 @@
-# CSE122&133
+# CSE123
 Solution of this Lab Course
